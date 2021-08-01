@@ -26,5 +26,5 @@ clientApp for Client Side
     
     then run 'npm start' command.
     
-Finall Client side communicate with Backend Server.
+Finally Client side communicate with Backend Server.
                 ######
